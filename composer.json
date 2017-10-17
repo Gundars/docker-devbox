@@ -10,7 +10,7 @@
     "nginx",
     "docker",
     "vagrant",
-    "php7.1"
+    "php7.1",
     "blackfire"
   ],
   "homepage": "https://github.com/Gundars/docker-devbox",
