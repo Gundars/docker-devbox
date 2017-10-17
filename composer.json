@@ -1,0 +1,24 @@
+{
+  "name": "gundars/docker-devbox",
+  "description": "Docker Devbox PHP 7.1 fpm with Nginx 1.10.3 OR Apache 2.4 on Ubuntu, Redis, Mail server, Blackfire profiler",
+  "type": "library",
+  "keywords": [
+    "development",
+    "devbox",
+    "php",
+    "apache",
+    "nginx",
+    "docker",
+    "vagrant",
+    "php7.1"
+    "blackfire"
+  ],
+  "homepage": "https://github.com/Gundars/docker-devbox",
+  "license": "DWTFYW to public license",
+  "authors": [
+    {
+      "name": "Gundars Meness",
+      "email": "me@gundars.me"
+    }
+  ]
+}
