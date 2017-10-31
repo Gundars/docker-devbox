@@ -4,7 +4,7 @@
    
    Host: Windows/Linux/Mac
    Guest: Vagrant (Ubuntu 16:04 x64)
-   Features: PHP 7.1 fpm with Nginx 1.10.3 OR Apache 2.4 on Ubuntu, Redis, Mail server, Blackfire profiler
+   Features: PHP 7.1 fpm with Nginx 1.10.3 :80 AND Apache 2.4 :8080 on Ubuntu, Redis, Mail server, Blackfire profiler
    
    Docker Containers:
    NAMES                  CONTAINER ID    CREATED AT                       CREATED        SIZE                 
