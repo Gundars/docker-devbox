@@ -1,6 +1,6 @@
 FROM ubuntu:16.04
 
-MAINTAINER Gundars Meness <gundars.meness@accenture.com>
+MAINTAINER Gundars Meness <me@gundars.me>
 
 # Let the container know that there is no tty
 ENV DEBIAN_FRONTEND noninteractive
