@@ -1,6 +1,6 @@
 FROM ubuntu:16.04
 
-LABEL maintainer="random dude"
+MAINTAINER Gundars Meness <me@gundars.me>
 
 RUN apt-get update && apt-get install -y --no-install-recommends \
 		apache2 \
